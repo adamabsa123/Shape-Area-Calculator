@@ -1,5 +1,4 @@
 # Shape Area Calculator
-#### Video Link: https://youtu.be/l3H-pg5oJjk
 
 
 ## Project Overview:
